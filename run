@@ -1,0 +1,12 @@
+| ?- [eight].
+compiling /home/cpl/eight.pl for byte code...
+/home/cpl/eight.pl compiled, 7 lines read - 2088 bytes written, 3 ms
+
+yes
+| ?- merge([1,2,2,4,10],[3,4,8,29],Y).
+
+Y = [29,10,8,4,4,3,2,2,1] ? 
+
+yes
+| ?- 
+
